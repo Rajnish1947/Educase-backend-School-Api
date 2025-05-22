@@ -7,6 +7,6 @@ const {
 const router = express.Router();
 
 router.post("/addSchool", createSchool);
-router.get("/schools", listSchools);
+router.get("/listSchools", listSchools);
 
 module.exports = router;
