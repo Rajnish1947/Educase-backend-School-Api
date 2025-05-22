@@ -66,20 +66,7 @@ Edit
 GET /listSchools?latitude=12.97&longitude=77.59
 List schools sorted by distance
 
-📫 Deliverables
-Source Code: GitHub Link
 
-Live API: https://your-api-host.com
 
-Postman Collection: Shared Link
-
-📞 Contact
-Name: Your Name
-
-Email: your@email.com
-
-Phone: +91-XXXXXXXXXX
-
-Resume: Link
 
 
